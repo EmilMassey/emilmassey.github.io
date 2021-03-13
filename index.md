@@ -16,6 +16,11 @@ Based in Poznań, Poland
 - [LinkedIn](https://www.linkedin.com/in/emil-masiakowski-73ab2ba7/)
 - [Twitter](https://twitter.com/emasiakowski)
 
+## Major Projects
+- [tipply.pl](https://tipply.pl) - service for streamers and their donators - [see case study](https://empressia.co/work/tipply)
+- [label-magazine.com](https://label-magazine.com/en) - website and online shop for a Polish design magazine - [see case study](https://empressia.co/work/label-magazine)
+- [su.krakow.pl](https://su.krakow.pl) - website for the largest clinical hospital in Poland - [see case study](https://empressia.co/work/university-hospital-in-krakow)
+
 ## PGP Key
 [Get my PGP key](pgp.asc)
 
