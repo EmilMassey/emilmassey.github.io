@@ -1,5 +1,5 @@
 # Emil Masiakowski
-Senior Software Engineer at Empressia Software House
+Senior Software Engineer at [Empressia Software House](https://empressia.co)
 
 Based in Poznań, Poland
 
