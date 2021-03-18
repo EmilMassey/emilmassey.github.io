@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #e0e0e0;
+    background: #232323;
+  }
+
+  a {
+    color: #66abf1;
+  }
+
+  .main-content {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: #11bd4e;
+    }
+  }
+
+  .page-header {
+    background-color: #155799;
+    background-image: linear-gradient(120deg, #155799, #113c26);
+  }
+}
