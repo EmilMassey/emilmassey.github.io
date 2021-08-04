@@ -1,4 +1,4 @@
-Senior Software Engineer at [Empressia Software House](https://empressia.co)
+Senior Software Engineer
 
 Based in Poznań, Poland
 
@@ -24,7 +24,7 @@ Based in Poznań, Poland
 ## PGP Key
 [Get my PGP key](pgp.asc)
 
-5FE0 92F3 124F C647 7F8F 50C7 E3E4 D572 A02C 4FF3 (emil@empressia.pl)
+5FE0 92F3 124F C647 7F8F 50C7 E3E4 D572 A02C 4FF3 (emil@rainbowbrains.pl)
 
 ## Rainbow Brains
 
