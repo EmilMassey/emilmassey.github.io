@@ -30,6 +30,5 @@ Based in Poznań, Poland
 
 |               | Emil Masiakowski Rainbow Brains |
 | ------------- | ------------- |
-| **Address** | os. Rzeczypospolitej 1/32, 61-397 Poznań, Poland |
 | **NIP (tax ID)** | 782-28-89-724 |
 | **REGON** | 387588571 |
