@@ -7,6 +7,7 @@ Based in Poznań, Poland
 ## Technologies
 - PHP
     - Symfony
+    - ApiPlatform
     - Sylius
 - Node.js
 - Java
