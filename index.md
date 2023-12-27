@@ -10,7 +10,6 @@ Based in Poznań, Poland
     - ApiPlatform
     - Sylius
 - Node.js
-- Java
 
 ## Links
 - [GitHub](https://github.com/EmilMassey/)
