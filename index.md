@@ -13,8 +13,6 @@ Based in Poznań, Poland
 
 ## Links
 - [GitHub](https://github.com/EmilMassey/)
-- [LinkedIn](https://www.linkedin.com/in/emil-masiakowski-73ab2ba7/)
-- [Twitter](https://twitter.com/emasiakowski)
 
 ## Major Projects
 - [tipply.pl](https://tipply.pl) - service for streamers and their donators - [see case study](https://empressia.co/work/tipply)
